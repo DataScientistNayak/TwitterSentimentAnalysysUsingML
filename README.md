@@ -85,5 +85,3 @@ Evaluated using accuracy score
 Achieved good accuracy in classifying tweet sentiment
 
 Model performs efficiently on large-scale text data
-Achieved good accuracy in classifying tweet sentiment
-Model performs efficiently on large-scale text data
