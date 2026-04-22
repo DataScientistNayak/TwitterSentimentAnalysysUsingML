@@ -19,6 +19,7 @@ Date
 Query
 Username
 Tweet Text
+
 ⚙️ Technologies Used
 Python 
 NumPy
@@ -26,22 +27,30 @@ Pandas
 NLTK (Natural Language Toolkit)
 Scikit-learn
 Google Colab
+
 🔍 Project Workflow
 1. Data Collection
 Dataset downloaded using Kaggle API
+
 2. Data Preprocessing
 Removed URLs, mentions, and special characters
 Converted text to lowercase
 Removed stopwords using NLTK
 Applied stemming using PorterStemmer
+
 3. Feature Extraction
 Converted text data into numerical form using:
 TF-IDF Vectorization
+
 4. Model Training
 Used Logistic Regression
 Split dataset into training and testing sets
+
 5. Model Evaluation
 Evaluated using accuracy score
+
 📈 Results
+Achieved good accuracy in classifying tweet sentiment
+Model performs efficiently on large-scale text data
 Achieved good accuracy in classifying tweet sentiment
 Model performs efficiently on large-scale text data
